@@ -14,6 +14,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         
-        Log.e("", "hello world 10");
+        Log.e("", "hello world 11");
     }
 }
